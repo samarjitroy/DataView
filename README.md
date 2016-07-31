@@ -1,6 +1,6 @@
 DataView
 
-The Shiny application on San Francisco crime incidents is available from
+The Shiny application on Data View Tool is available from
 
 https://samarjitroy.shinyapps.io/DataView/
 
