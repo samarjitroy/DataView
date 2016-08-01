@@ -6,7 +6,7 @@ https://samarjitroy.shinyapps.io/DataView/
 
 The Slidify presentation is available at
 
-https://samarjitroy.shinyapps.io/DataView-Slide/
+https://samarjitroy.github.io/DataView-Slide/
 
 
 #Instructions
